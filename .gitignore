@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Environnements
+.venv/
+azure_function/.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Windows ADS
+*:Zone.Identifier
+
+# Azure local
+azure_function/local.settings.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / cache
+*.log
+
+data/
