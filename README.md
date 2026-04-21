@@ -1,19 +1,3 @@
-# Projet 10 – Application de recommandation de contenu
-
-## Contenu de cette archive
-
-Cette archive contient les principaux éléments de code développés dans le cadre du projet :
-
-- `src/` : modules Python utilisés pour le chargement des données, la logique métier et le moteur de recommandation
-- `azure_function/` : code de l’API serverless déployée sur Azure Functions
-- `app/` : interface utilisateur développée avec Streamlit permettant d’interroger l’API et d’afficher les recommandations
-
-## Dépôt GitHub complet
-
-L’intégralité du projet (code source, notebooks, structure complète, historique Git) est disponible à l’adresse suivante :
-
-🔗 https://github.com/AurelienGruzon/content-recommendation
-
 ## Fonctionnement général
 
 Le projet consiste à recommander 5 articles personnalisés à un utilisateur à partir de son historique de lecture.
